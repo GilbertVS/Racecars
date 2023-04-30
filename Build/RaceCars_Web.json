@@ -1,0 +1,17 @@
+{
+"companyName": "Racecars",
+"productName": "cars",
+"productVersion": "0.1",
+"dataUrl": "RaceCars_Web.data.unityweb",
+"wasmCodeUrl": "RaceCars_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "RaceCars_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "RaceCars_Web.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
